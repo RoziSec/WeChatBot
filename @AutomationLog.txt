@@ -1,0 +1,2 @@
+2022-09-29 15:30:15.066 WeChatType.py[154] GetSessionList -> Find Control Timeout(10s): {ControlType: ListItemControl}
+2022-10-11 01:09:44.819 WeChatType.py[154] GetSessionList -> Find Control Timeout(10s): {ControlType: ListItemControl}

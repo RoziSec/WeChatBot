@@ -1,0 +1,8 @@
+colorama==0.4.5
+comtypes==1.1.14
+loguru==0.6.0
+PyOfficeRobot==0.0.10
+pypiwin32==223
+pywin32==304
+uiautomation==2.0.17
+win32-setctime==1.1.0
