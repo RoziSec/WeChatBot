@@ -4,7 +4,7 @@
 pip install -r requirements.txt -i https://pypi.douban.com/simple
 `
 
-![image/pip.png](https://github.com/RoziSec/WeChatBot/blob/main/image/pip.jpg)
+![image/pip.png](https://github.com/RoziSec/WeChatBot/blob/main/image/pip.png)
 
 `
 python setup.py
